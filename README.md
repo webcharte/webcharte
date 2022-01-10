@@ -1,5 +1,5 @@
-👋 Hi, I’m @webcharte
-👀 I’m interested in specifications
-🌱 I’m currently learning web audit & specifications
-💞️ I’m looking to collaborate on specifications
-📫 How to reach me : hello@webcharte.com
+👋 Hi, I’m @webcharte<br>
+👀 I’m interested in specifications<br>
+🌱 I’m currently learning web audit & specifications<br>
+💞️ I’m looking to collaborate on specifications<br>
+📫 How to reach me : hello@webcharte.com<br>
