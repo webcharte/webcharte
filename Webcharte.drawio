@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T22:59:03.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="l1XrnAwM1ZUVzuLKwt17" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T23:05:03.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Wty6NN2FuGAtMbThJHoE" version="16.2.2" type="github">
   <diagram id="dq8gb7fQARIdYSocHXqy" name="Page-1">
     <mxGraphModel dx="813" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,8 +146,15 @@
         <mxCell id="D3do3Fapur8upNNMfMpW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D3do3Fapur8upNNMfMpW-11" target="D3do3Fapur8upNNMfMpW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="D3do3Fapur8upNNMfMpW-11" target="D3do3Fapur8upNNMfMpW-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D3do3Fapur8upNNMfMpW-11" value="OBJECTIF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D3do3Fapur8upNNMfMpW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D3do3Fapur8upNNMfMpW-13" target="D3do3Fapur8upNNMfMpW-15">
           <mxGeometry relative="1" as="geometry">
@@ -219,8 +226,44 @@
         <mxCell id="D3do3Fapur8upNNMfMpW-28" value="X FOIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="475" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D3do3Fapur8upNNMfMpW-31" value="PAIEMENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D3do3Fapur8upNNMfMpW-31" value="TYPE VENTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D3do3Fapur8upNNMfMpW-33" target="D3do3Fapur8upNNMfMpW-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="610" />
+              <mxPoint x="200" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-33" value="RESERVATION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="575" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D3do3Fapur8upNNMfMpW-35" target="D3do3Fapur8upNNMfMpW-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D3do3Fapur8upNNMfMpW-35" target="D3do3Fapur8upNNMfMpW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-35" value="PAIEMENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="D3do3Fapur8upNNMfMpW-36" target="D3do3Fapur8upNNMfMpW-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-36" value="&lt;font style=&quot;font-size: 8px&quot;&gt;OUI&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-37" value="&lt;font style=&quot;font-size: 8px&quot;&gt;NON&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D3do3Fapur8upNNMfMpW-40" value="NOM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="740" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
